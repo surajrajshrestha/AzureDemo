@@ -3,3 +3,8 @@
 ################################################################################
 
 /Vision/.vs/Blueprint
+/Vision/bin/Debug/net6.0
+/Vision/obj
+/Vision/Properties
+/Vision/appsettings.json
+/Vision/appsettings.Development.json
